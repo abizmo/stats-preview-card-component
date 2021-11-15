@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/abizmo/stats-preview-card-component.git](https://github.com/abizmo/stats-preview-card-component.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://abizmo.github.io/stats-preview-card-component/](https://abizmo.github.io/stats-preview-card-component/)
 
 ## My process
 

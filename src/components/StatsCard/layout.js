@@ -19,7 +19,7 @@ export const Container = styled.div`
 `
 
 export const Media = styled.div`
-  background: url('/images/image-header-mobile.jpg'), hsl(277, 64%, 61%);
+  background: url('./images/image-header-mobile.jpg'), hsl(277, 64%, 61%);
   background-repeat: no-repeat;
   background-size: cover;
   background-blend-mode: multiply;
@@ -28,7 +28,7 @@ export const Media = styled.div`
   width: 100%;
 
   @media(min-width: 1440px) {
-    background: url('/images/image-header-desktop.jpg'), hsl(277, 64%, 61%);
+    background: url('./images/image-header-desktop.jpg'), hsl(277, 64%, 61%);
     background-size: contain;
     border-radius: 0px 6px 6px 0;
     height: 100%;
